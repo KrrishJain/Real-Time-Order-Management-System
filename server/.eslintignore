@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Production builds
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+
+# Test files (if you want to ignore them)
+# *.test.js
+# *.spec.js
+
+# Configuration files
+.eslintrc.js
+jest.config.js
+
+# Environment files
+.env
+.env.*
+
+# Package lock files
+package-lock.json
+yarn.lock
